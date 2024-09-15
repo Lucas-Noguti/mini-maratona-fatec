@@ -1,2 +1,2 @@
 # mini-maratona-fatec
-Exercícios propostos pela quinta mini maratona de programação
+Exercícios propostos pela quinta mini maratona de programação da fatec
